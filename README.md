@@ -9,6 +9,9 @@ A super simple web app that lets you count passengers getting on or off.
 -  Live count display  
 -  Reset to zero
 
+## Demo
+Check out the live demo here: [Passenger Counter Demo](https://yasminserag08.github.io/passenger-counter/)
+
 ## Built With
 
 - HTML  
